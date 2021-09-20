@@ -1,6 +1,14 @@
+#+TITLE: Hello World!
+#+DATE: <2021-09-20 Mon>
+#+AUTHOR: Salvador Guzman
+#+EMAIL: guzmansalv@gmail.com
+#+LANGUAGE: en
+
 * Hi!
   My name is *Salvador Guzman* and this is my wiki :).
-** What is this and Who am I?
+ 
+** Introduction
+*** What is this and Who am I?
    I'm a very active guy. I don't mean physically since I spent the majority of
    my day sitting on my triple-decker seat cushions. No, no. I am athletic in a
    in a more intellectual sense. I'm one of those too-smart for their own good
@@ -13,10 +21,36 @@
    more ideas! Isn't that sad? I think it is.
 
    Whatever potent combination nature sought out to imbue my mental headspace
-   with suffers from an abudance of creativity. I know because it lies on a hair
-   trigger mechanism that requires very little stimulus to start chasing its own
-   tail. Yes. Yes.
+   with suffers from an abudance of prejudice of those dang loose threads. They
+   just dont know when to stop. I know because it belying it is a hair trigger
+   mechanism that requires very little stimulus to start chasing its own
+   tail. Yes, yes; no.
+
+   It makes for an interesting mental life but sadly can only be enjoyed at the
+   expense of our flesh and blood; meaning your material life. Anyway, I would
+   like my thoughts to be more than just manic intellectual daydreams I chase at
+   my leisure. Within that undertaking is this.
+
+   My personal wiki.
+
+   I intend to write up all my thoughts here eventually in as prodigious in
+   scale as possible to perfectly layout what I intended to say. It's a wiki for
+   my thoughts and my own personal research. I'm using Emacs' Org-mode for all
+   this fanfare to try it out :D
+*** TL;DR
+    My personal wiki where I write about my research.
 ** Area of Research
+   Here are some areas of inquiry that I have pursued in my research. Most of it
+   may not be intelligible to the outsider (read: person that isn't me) but it
+   is stuff I wish to pursue at some point. If I write it down, that means it
+   has already been polished a bit from the first time it magically appeared in
+   my head.
+
+*** My Favorite Species of Intellectual Inquiry...
+   While I don't wish to pigeonhole myself, my mathematical research is my pride
+   and joy. It is the field that I have suffered the most for and yielded the
+   most diamonds thereof. Consider everything junk except for mathematics which
+   intends to tell you a truth story.
 *** Mathematics
 **** Real Analysis
 *** Computer Science
