@@ -70,6 +70,7 @@
      could do this sucessfully, I would be part way to a conclusive and
      definitive solution to the conjecture in question. At least that's what I
      claim 🙃
+
 **** Computer Science
      Now follow me on this. While the concept of infinity shares affinity moreso
      to mathematics, I think it has a primary role to play in computer
@@ -89,10 +90,49 @@
      solution. That is my application of the infinite to a particular computer
      science problem. Infinitary algorithms could solve it, whatever that
      means...
+
 **** Language
-     Unlike young [[https://en.wikipedia.org/wiki/Ludwig_Wittgenstein][Wittgenstein]], I do not think language is everything. 
+     Unlike the young and devilishly handsome [[https://en.wikipedia.org/wiki/Ludwig_Wittgenstein][Wittgenstein]], I do not think
+     language is everything. And [[https://en.wikipedia.org/wiki/Linguistic_relativity][linguistic relativity]] fails to capture the
+     nature of language in practice. Whatever innate general and linguistic
+     neural devices we have attending to the acquisition, comprehension and
+     production of linguistic artifacts, our linguistic capacity is limited by
+     said mechanisms. Our language is the beneficiary of our limitations; not
+     the progenitor of the limitations. Unfortunately, discourse concerning the
+     domain of discourse, in this case language, requires one be a bit of a
+     pedant. The gist of my musings on language is that language is limited by
+     our innate linguistic capacity to work with language. Language is not all
+     that is out there, although some more introverted and literate types of
+     people can be forgiven for positing as much. I once was such a type. 
+
 **** Library Science
-**** Literature
+     I find it amusing  how library science, the discipline associated with
+     organizing information in a feasible and efficient format, is not discussed
+     more than it is. Yes; you can be the most prolific theoretician and produce
+     prodigious quantities and volumes on whatever field of study that has
+     purchased your fancy; you will for eons forward be remembered for the being
+     the kind, intelligent and sensitive thinker that you truly; you will have
+     all of us. But if posteriority cannot properly engage with your material do
+     to your oversight of the matter of organization, you doom yourself, reader!
+     Library science attempts to give feasible consolidation of the expanse of
+     knowledge and make it accessible to everyone. If that is not a laudable
+     goal, nothing is. 
+
+**** Pedagogy
+     Given that everyone and their maternal relatives seem to want to contribute
+     theory in one shape or form or some discipline, who exactly is going to
+     organize this mess? Think of it; a giant mass of papers with no obvious
+     connection to one another. How exactly is this supposed to aid to material
+     condition of mankind and allay their supposed privations if you can't even
+     make heads or tails of the damn thing. It has always been a trite statement
+     of mine that theories, and a semiotic events really, should contain their
+     own pedagogy. What does mean? I don't know but I can define what the
+     productive end result should be. It is the difference between a simple,
+     positive theory of the world versus a simple theory of the world that
+     contains within it the seeds not just to understand it but to extol
+     it. Beyond that imagination fails as this is a rather incipient thought of
+     mine. Maybe I will construct such a object for demonstration eventually.
+ 
 **** Politics
      Now, you may have intuited from my name that I am Mexican. This colors my
      take on politics profoundly and provides a permeable perspective that
@@ -108,6 +148,24 @@
      relations it would entail, in order to secure material propsperity, or the
      prospective pursuit thereof, people have needs. If those needs are met, the
      system is bad. No theory is necessary to conclude that.
+
+**** Romance
+     I don't want to be a sour bunch of grapes and present that as the position
+     I tenaciously hold out of sheer malice. Whatever charity may prevail and
+     the risk of incurring protest from the gallery or the chorus, I do not think romance as
+     something necessarily demanding laconic ebullience at exhaust. Nay; one can
+     say many things about it and never repeat. That I insist on muttering
+     whatever trinkle of wisdom these tired bones exude, I assure you I do not
+     wish to remonstrate the gaiety afforded to all of mankind by its hegemonic
+     exercise. Enjoy it, is what I would offer. What midicum of insight I
+     maintain must prevail is that it is a demonstrable and permissible area of
+     inquiry. That is why I justifiably hold that romance can be understood to
+     the deliberate exercise of rational thought. It can be conceptualized,
+     studied, theorized and abetted into something mundane. And thusly do I
+     inuit to do so. If that constitutes maltreatment and my mental manhandling
+     of the thing a vice, then so be it. Theories often prevail in worse
+     conditions and poets will found yet another impetus to migrate their
+     passions. So be it.
 
 ** Any Meta-Disciplinary Themes?
    After reading my samples excepts, I hope you are no impressed! If not, I have
