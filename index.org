@@ -1,4 +1,4 @@
-#+TITLE: Hi! 
+#+TITLE: My Wiki 
 #+DATE: <2021-09-20 Mon>
 #+AUTHOR: Salvador Guzman
 #+EMAIL: guzmansalv@gmail.com
