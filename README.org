@@ -152,19 +152,19 @@
 **** Romance
      I don't want to be a sour bunch of grapes and present that as the position
      I tenaciously hold out of sheer malice. Whatever charity may prevail and
-     the risk of incurring protest from the gallery or the chorus, I do not think romance as
-     something necessarily demanding laconic ebullience at exhaust. Nay; one can
-     say many things about it and never repeat. That I insist on muttering
-     whatever trinkle of wisdom these tired bones exude, I assure you I do not
-     wish to remonstrate the gaiety afforded to all of mankind by its hegemonic
-     exercise. Enjoy it, is what I would offer. What midicum of insight I
-     maintain must prevail is that it is a demonstrable and permissible area of
-     inquiry. That is why I justifiably hold that romance can be understood to
-     the deliberate exercise of rational thought. It can be conceptualized,
-     studied, theorized and abetted into something mundane. And thusly do I
-     inuit to do so. If that constitutes maltreatment and my mental manhandling
-     of the thing a vice, then so be it. Theories often prevail in worse
-     conditions and poets will found yet another impetus to migrate their
+     the risk of incurring protest from the gallery or the chorus, I do not
+     think romance as something necessarily demanding laconic ebullience at
+     exhaust. Nay; one can say many things about it and never repeat. That I
+     insist on muttering whatever trinkle of wisdom these tired bones exude, I
+     assure you I do not wish to remonstrate the gaiety afforded to all of
+     mankind by its hegemonic exercise. Enjoy it, is what I would offer. What
+     midicum of insight I maintain must prevail is that it is a demonstrable and
+     permissible area of inquiry. That is why I justifiably hold that romance
+     can be understood to the deliberate exercise of rational thought. It can be
+     conceptualized, studied, theorized and abetted into something mundane. And
+     thusly do I inuit to do so. If that constitutes maltreatment and my mental
+     manhandling of the thing a vice, then so be it. Theories often prevail in
+     worse conditions and poets will found yet another impetus to migrate their
      passions. So be it.
 
 ** Any Meta-Disciplinary Themes?
@@ -183,5 +183,6 @@
    about right.
 
 ** Useful Pages
-   - [[./wiki/admin/tools.org][Tool]]
-   - [[./wiki/admin/todo.org][To do]] list
+   Here's a good list of pages that will help your way around my wiki.
+   - [[./wiki/tools.org][Tools]]
+   - My [[./wiki/todo.org][To do]] list

@@ -9,4 +9,9 @@
 ** TODO make another todo list about what articles to write about
 ** TODO figure out how to organize this wiki
 ** TODO write script to *output* this wiki into a serviceble blog
+** TODO make an entry in the wiki for each one of my mathematical investigations
+** TODO make an entry that outlines the different types of pages here
+   - articles
+   - wiki
+   - problem solving
    
