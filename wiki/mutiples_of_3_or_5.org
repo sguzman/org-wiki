@@ -17,3 +17,40 @@
 
     Find the sum of all the multiples of 3 or 5 below 1000.
     #+END_QUOTE
+
+**** Understanding the Problem
+
+    Having solved this problem multiple times in different contexts, I am very
+    prepared to offer a write up for this! Lucky me.
+
+    The straight-forward statement is to figure out the sum of the multiples of
+    3 or 5.  In my head, I split this problem into deciphering what these
+    numbers are then summing them up. The difficult part is attaining a list of
+    these numbers; that is the heart of this problem.
+
+    This is a more narrow entry to the /find numbers that match this criteria/
+    problem. In this case, we have the simple rule that the numbers we happen to
+    be looking for a multiple of 3 *or* 5. And the problem's scope is limited to
+    below 1000. Easy, right?
+
+**** Conceptualizing a Solution
+     The position of the problem invites a linear assessment of the solution
+     topology. This implicates treating a number line, at least the integers on
+     it, up to the number 1000, as a sort of query space. I always conceptualize
+     such problems as a SQL query. It is a rather apt interpretation since it
+     leaves the particular implementation of how to solve the problem left
+     ambiguous but explicitly expresses an interface vis-\{a}-vis the query.
+
+     So, assuming the number line is my query space, then a prospective query
+     would be thusly expressed:
+
+     #-NAME: number-query.sql
+     #+BEGIN_SRC sql
+     SELECT multiple
+     FROM Integers
+     WHERE
+         0 < mutiple < 1000 AND
+         multiple \in N AND
+         mutiple|3 OR multiple|5
+     #+END_SRC sql
+
