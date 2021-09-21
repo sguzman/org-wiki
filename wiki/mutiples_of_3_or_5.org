@@ -100,9 +100,13 @@
       always be this easy but thank our lucky stars that it is in this
       scenario.
 
-      Thus, the formula, 
+      Thus, the formula, 3x_{1}+5x_{2}, is the proper linear combination to
+      produce all the multiples. I like to think of it as using 3 and 5 as the
+      seeds to produce the proper integers.
 
-      \begin{equation}
-          y=3x_{1}+5x_{2}
-      \end{equation}
-      
+      Better yet, we can simply produce a summation that invokes all the needed
+      integers by generation the multiples in question separately and adding
+      them up afterwards. Remember, that we all need to substract the duplicate
+      multiples.
+
+      The sum of the multiples of 3 is $\sum_{i=1}^{1000} 3 (i) = 1$
