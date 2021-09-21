@@ -57,17 +57,18 @@
 
 *** Disciplines
 **** Mathematics
-     - My attempt to build a hierarchical *tower* of iterated function. The idea
-       is to construct other functions from some base function and produce a
-       simple algebraic formalisms between these different iterations. Why do
-       this? Because I was working on Collatz Conjecture for fun and wanted
-       badly for the solution to involve iteration of some basic function that
-       was faithful to the Collatz Conjecture function at positive
-       integers. With a simple algebra for iterated functions I could then build
-       a representative of the Collatz function, at least at positive integers,
-       and iterate to successive iterate each number to their prospective
-       terminal node. If I could do this sucessfully, I would be part way to a
-       conclusive and definitive solution to the conjecture in question. 
+     My attempt to build a hierarchical *tower* of iterated function. The idea
+     is to construct other functions from some base function and produce a
+     simple algebraic formalisms between these different iterations. Why do
+     this? Because I was working on Collatz Conjecture for fun and wanted badly
+     for the solution to involve iteration of some basic function that was
+     faithful to the Collatz Conjecture function at positive integers. With a
+     simple algebra for iterated functions I could then build a representative
+     of the Collatz function, at least at positive integers, and iterate to
+     successive iterate each number to their prospective terminal node. If I
+     could do this sucessfully, I would be part way to a conclusive and
+     definitive solution to the conjecture in question. At least that's what I
+     claim 🙃
 ***** Real Analysis
 **** Computer Science
 **** Politics
