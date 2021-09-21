@@ -4,7 +4,7 @@
 #+EMAIL: guzmansalv@gmail.com
 #+LANGUAGE: en
 
-* Hi!
+* Hi! It's me Salvador Guzman.
   My name is *Salvador Guzman* and this is my wiki :).
  
 ** Introduction
