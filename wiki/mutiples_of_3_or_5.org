@@ -44,7 +44,7 @@
      So, assuming the number line is my query space, then a prospective query
      would be thusly expressed:
 
-     #-NAME: number-query.sql
+     #+NAME: number-query
      #+BEGIN_SRC sql
      SELECT multiple
      FROM Integers
@@ -54,3 +54,24 @@
          mutiple|3 OR multiple|5
      #+END_SRC sql
 
+     Wouldn't it be nice if you could query spaces with an infinite number of
+     members the same way you could query finite spaces? I think so :).
+
+     An algorithm flavored approach would involve running a for loop from 1 to
+     100 and summing those numbers that are multiples of either 3 or 5. There is
+     a small gotcha where depending on the particular implementation of the
+     algorithm, you might sum an integer doubly; all you would do in this
+     scenario is substract out the double. 
+
+     In python, the solution is as simple as this,
+     #+NAME: sum-python
+     #+BEGIN_SRC python
+         sum: int = 0
+         for n in range(1000):
+             if n % 3 == 0 or n % 5 == 0:
+                 sum += n
+
+         print(sum)
+     #+END_SRC
+
+     #+CALL: sum-python()
