@@ -1,0 +1,8 @@
+#+TITLE: Tools 
+#+DATE: <2021-09-20 Mon>
+#+AUTHOR: Salvador Guzman
+#+EMAIL: guzmansalv@gmail.com
+#+CATEGORY: Admin
+#+LANGUAGE: en
+
+* There are the tools I use for this whole undertaking

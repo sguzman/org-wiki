@@ -2,6 +2,7 @@
 #+DATE: <2021-09-20 Mon>
 #+AUTHOR: Salvador Guzman
 #+EMAIL: guzmansalv@gmail.com
+#+CATEGORY: Admin
 #+LANGUAGE: en
 
 * Hi! It's me Salvador Guzman.
@@ -122,3 +123,5 @@
    by past prolific thinkers and doing unto their work what they insist on doing
    to ours. And maybe that produces ingenuity? I don't know but that sounds
    about right.
+
+** [[./wiki/admin/tools.org][Tool
