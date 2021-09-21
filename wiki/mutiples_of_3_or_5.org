@@ -109,4 +109,28 @@
       them up afterwards. Remember, that we all need to substract the duplicate
       multiples.
 
-      The sum of the multiples of 3 is $\sum_{i=1}^{1000} 3 (i) = 1$
+      The sum of the multiples of 3 is 3 \sum_{i=1}^{a} i.
+
+      Notice that I left the terminating value, /a/, blank. In order to find the
+      terminating value for 3, we need to know what is the maximum multiple of 3
+      that is less than 1000. Expressed mathematically, \exists(n, n_{1}, n_{2}) \in N such
+      that n < 1000 \and n | 3 \and n = \max(n_{1}, n_{2}). Or something like
+      that. That number is obviously 999, since 999 = 3 (333). So updating our
+      sum for 3, we have 3 \sum{i=1}^{333} i.
+
+      Producing the limit for 5 is much easier since we know that 5
+      divides 1000. We can know that the next multiple of 5 is 995. So the sum
+      for 5 is 5 \sum{i=1}^{199} i.
+
+      Putting them together, we have (3 \sum_{i=1}^{333} i) + (5 \sum{i=1}^{199}
+      i).
+
+      Finally, we subtract the duplications which would just be the shared
+      multiples of the two. That is 3*5 \sum_{i=1}^{66} i. The 66 comes from 990
+      being the max multiple of 15 which is the product of 3 and 5. We arrive at
+      our final mathematical formula,
+
+
+      (3 \sum_{i=1}^{333} i) + (5 \sum{i=1}^{199} - (15 \sum_{i=1}^{66});w
+
+      And there you go :).
