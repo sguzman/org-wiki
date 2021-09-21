@@ -2,12 +2,12 @@
 #+DATE: <2021-09-21 Tue>
 #+AUTHOR: Salvador Guzman
 #+EMAIL: guzmansalv@gmail.com
+#+OPTIONS: text:t
 #+CATEGORY: Math
 #+CATEGORY: Article
 #+CATEGORY: Problem
 #+CATEGORY: ProjectEuler
 #+LANGUAGE: en
-
 
 ** Project Euler
 *** Problem 1
@@ -16,6 +16,11 @@
     get 3, 5, 6 and 9. The sum of these multiples is 23.
 
     Find the sum of all the multiples of 3 or 5 below 1000.
+    #+END_QUOTE
+
+**** Answer
+    #+BEGIN_QUOTE
+    233168   
     #+END_QUOTE
 
 **** Understanding the Problem
@@ -52,11 +57,12 @@
          0 < mutiple < 1000 AND
          multiple \in N AND
          mutiple|3 OR multiple|5
-     #+END_SRC sql
+     #+END_SRC
 
      Wouldn't it be nice if you could query spaces with an infinite number of
      members the same way you could query finite spaces? I think so :).
 
+***** Computational Approach
      An algorithm flavored approach would involve running a for loop from 1 to
      100 and summing those numbers that are multiples of either 3 or 5. There is
      a small gotcha where depending on the particular implementation of the
@@ -71,7 +77,31 @@
              if n % 3 == 0 or n % 5 == 0:
                  sum += n
 
-         print(sum)
+         return sum
      #+END_SRC
 
-     #+CALL: sum-python()
+     #+RESULTS: sum-python
+     : 233168
+
+     There you go! There's your answer! Of corse, I am more interested in a
+     mathematical solution so let's keep going. But we know that our basic
+     presupposition concerning the topology of the solution is correct. The
+     problem statement demands a line and that line must be queried in order to
+     accumulate a list of the members, in this case integers, that match the
+     criteria of being multiples of 3 or 5. Now, what would the math based
+     approach look like?
+
+***** Mathematical Approach
+      Our idea of filtering out the proper elements is right call here and we
+      can imitate it somewhat before we turn to a more numerical oriented
+      solution. The prize of our rigorous effort d be some formula that
+      spits out the answer. I think of producing a list of the proper multiples
+      by creating a linear combination of the multiples in quesion. It won't
+      always be this easy but thank our lucky stars that it is in this
+      scenario.
+
+      Thus, the formula, 
+      \begin{equation}
+          y=3x_{1}+5x_{2}
+      \end{equation}
+      
