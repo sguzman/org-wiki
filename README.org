@@ -182,4 +182,6 @@
    to ours. And maybe that produces ingenuity? I don't know but that sounds
    about right.
 
-** [[./wiki/admin/tools.org][Tool]]
+** Useful Pages
+   - [[./wiki/admin/tools.org][Tool]]
+   - [[./wiki/admin/todo.org][To do]] list

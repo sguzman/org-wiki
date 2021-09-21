@@ -1,0 +1,12 @@
+#+TITLE: To do
+#+DATE: <2021-09-20 Mon>
+#+AUTHOR: Salvador Guzman
+#+EMAIL: guzmansalv@gmail.com
+#+CATEGORY: Admin
+#+LANGUAGE: en
+
+** TODO write about what tools I used for this project
+** TODO make another todo list about what articles to write about
+** TODO figure out how to organize this wiki
+** TODO write script to *output* this wiki into a serviceble blog
+   
