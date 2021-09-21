@@ -15,7 +15,7 @@
    type of people. This leads to the unfortunate scenario where I brainstorm
    more ideas than I know what to do with.
 
-   This sounds like a brag but I swear its not. In fact, it is a curse. I am
+   This sounds like a brag but I swear it's not. In fact, it is a curse. I am
    forced for time evermore to produce half-baked ideas that I cannot possibly
    refine on my own. Why not? Well, refining ideas gets in the way of generating
    more ideas! Isn't that sad? I think it is.
@@ -69,9 +69,56 @@
      could do this sucessfully, I would be part way to a conclusive and
      definitive solution to the conjecture in question. At least that's what I
      claim 🙃
-***** Real Analysis
 **** Computer Science
-**** Politics
+     Now follow me on this. While the concept of infinity shares affinity moreso
+     to mathematics, I think it has a primary role to play in computer
+     science. Consider this a particular approach to interpreting infinity,
+     confined approximately to the domain of discourse in study. This means that
+     the idea of infinity is general enough to find purchase within relatively
+     narrow bounds of whatever line of inquiry is being followed. To illustrate
+     an example, take the [[https://en.wikipedia.org/wiki/Halting_problem][Halting Problem]] as a candidate primary for the
+     application of this idea of infinity. To say that, there does not exist
+     such an algorithm is to say that there does not exist a finitary algorithm
+     to accomplish such an endeavor. Although you may have never explicitly
+     tacted on a finite dimension to that conclusive statement, that is what is
+     strongly implicated. A *finitary* algorithm can be decoupled into its
+     constituent *finitary* steps. That definitively exhausts purview of the
+     Halting Problem statement. /However/, if there were to be *non-finitary*
+     algorithms with perhaps *non-finitary* steps, they could maybe offer a
+     solution. That is my application of the infinite to a particular computer
+     science problem. Infinitary algorithms could solve it, whatever that
+     means...
+**** Language
+     Unlike young [[https://en.wikipedia.org/wiki/Ludwig_Wittgenstein][Wittgenstein]], I do not think language is everything. 
 **** Library Science
 **** Literature
-**** Language
+**** Politics
+     Now, you may have intuited from my name that I am Mexican. This colors my
+     take on politics profoundly and provides a permeable perspective that
+     encapsulates judiciously how I view politics. I do not necessarily view it
+     as an abstract game played in the halls of academia but a discoursive
+     reality played out millions of times in the ordinary and plain interactions
+     of people. My prejudice towards abstractions in this realm of experience
+     belies the inaccessibility of these lofty ideas to the mundane
+     world. So what matters? Whatever system that entails should provide for the
+     metabolic demands of the real people that constitute this system. Whether
+     it's providing material relief in the form of social welfare or demarcating
+     some economic adverserial capicity, notwithstanding the unruly social
+     relations it would entail, in order to secure material propsperity, or the
+     prospective pursuit thereof, people have needs. If those needs are met, the
+     system is bad. No theory is necessary to conclude that.
+
+** Any Meta-Disciplinary Themes?
+   After reading my samples excepts, I hope you are no impressed! If not, I have
+   failed to stimulate in you the passion that madly drives me to write in the
+   first place. Maybe it will a life-long struggle then to impress others what
+   my intellectual ramblings are all about.
+
+   Either way, I hope to connect the disparate blotches of intellectual
+   inquisition that I have labored under. If I had to claim there are some
+   themes to my fugue-like pondering, I would say most of my creative research
+   seems to consist of iterating over the same fiction that produced past
+   facts. It's taking some idea that has been produced through a labor of love
+   by past prolific thinkers and doing unto their work what they insist on doing
+   to ours. And maybe that produces ingenuity? I don't know but that sounds
+   about right.
