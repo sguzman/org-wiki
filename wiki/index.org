@@ -1,4 +1,4 @@
-#+TITLE: Hello World!
+#+TITLE: Hi! 
 #+DATE: <2021-09-20 Mon>
 #+AUTHOR: Salvador Guzman
 #+EMAIL: guzmansalv@gmail.com
@@ -39,6 +39,7 @@
    this fanfare to try it out :D
 *** TL;DR
     My personal wiki where I write about my research.
+
 ** Area of Research
    Here are some areas of inquiry that I have pursued in my research. Most of it
    may not be intelligible to the outsider (read: person that isn't me) but it
@@ -50,14 +51,26 @@
    While I don't wish to pigeonhole myself, my mathematical research is my pride
    and joy. It is the field that I have suffered the most for and yielded the
    most diamonds thereof. Consider everything junk except for mathematics which
-   intends to tell you a truth story.
-*** Mathematics
-**** Real Analysis
-*** Computer Science
-*** Politics
-*** Library Science
-*** Literature
-*** Language
-**** English
-**** Spanish
-***** Mexican Spanish
+   intends to tell you a true story.
+
+   Below is a sample of some of my thoughts in their respective disciplines.
+
+*** Disciplines
+**** Mathematics
+     - My attempt to build a hierarchical *tower* of iterated function. The idea
+       is to construct other functions from some base function and produce a
+       simple algebraic formalisms between these different iterations. Why do
+       this? Because I was working on Collatz Conjecture for fun and wanted
+       badly for the solution to involve iteration of some basic function that
+       was faithful to the Collatz Conjecture function at positive
+       integers. With a simple algebra for iterated functions I could then build
+       a representative of the Collatz function, at least at positive integers,
+       and iterate to successive iterate each number to their prospective
+       terminal node. If I could do this sucessfully, I would be part way to a
+       conclusive and definitive solution to the conjecture in question. 
+***** Real Analysis
+**** Computer Science
+**** Politics
+**** Library Science
+**** Literature
+**** Language
