@@ -1,0 +1,24 @@
+#TITLE: Wiki Article vs. Article Article 
+#DATE: <2021-09-30 Thu>
+#+AUTHOR: Salvador Guzman
+#+EMAIL: guzmansalv@gmail.com
+#+OPTIONS: text:t
+#+CATEGORY: Wiki
+#+CATEGORY: Article
+#+CATEGORY: Admin
+#+LANGUAGE: en
+
+** What is an article?
+   Given that this wiki will sort of be a catch all for my literary content at
+   the moment, I want to dinstiguish between two different types of documents I
+   plan to populate this wiki with. The general nondescript purview of the word
+   article motivates me to disambiguate between two different definitions of the
+   word that will be employed here.
+
+   Did I need to overload a single word to refer to my documents? No; I could
+   always have chosen to distinct lexemes to properly preclude any
+   equivocation. But sometimes the heart wants what it wants :(.
+
+*** Wiki Article
+    You probably know what a wiki is if you're here. Entries on a wiki, such as
+    [[https://en.wikipedia.org/wiki/Main_Page][Wikipedia]] are colloquially known as articles
