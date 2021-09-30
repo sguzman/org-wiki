@@ -1,5 +1,5 @@
-#TITLE: Wiki Article vs. Article Article 
-#DATE: <2021-09-30 Thu>
+#+TITLE: Wiki Article vs. Article Article 
+#+DATE: <2021-09-30 Thu>
 #+AUTHOR: Salvador Guzman
 #+EMAIL: guzmansalv@gmail.com
 #+OPTIONS: text:t
@@ -19,6 +19,45 @@
    always have chosen to distinct lexemes to properly preclude any
    equivocation. But sometimes the heart wants what it wants :(.
 
+   One of the things referred to is entries in your standard wiki. The other is
+   what you would call entries in a blog. So, basically this wiki will contain
+   blog-style **articles** in addition to your usually panoply of
+   documents. Hence my need to disambiguate.
+
 *** Wiki Article
     You probably know what a wiki is if you're here. Entries on a wiki, such as
-    [[https://en.wikipedia.org/wiki/Main_Page][Wikipedia]] are colloquially known as articles
+    [[https://en.wikipedia.org/wiki/Main_Page][Wikipedia]] are colloquially known as articles. The idea behind these
+    documents is that they are living and breathing pieces of text. They are
+    meant to be updated longitudinally and purported to apace consistent with
+    current affairs. Thus, editing is a more consummate and faithful description
+    of the literary activity circumscribing the article in a wiki context.
+
+    That is on aspect of a wiki-style article. The other is that partipates in a
+    discursive web of information, even more so than the web itself. Wikis are
+    by intention designed to refer to other articles in its inventory and thus
+    suffice with a superficial elucidation of tangental topics. If a user
+    desires more information on the topic merely referenced in one article, they
+    can avail themselves comfortably to the hive of links presented in the
+    article.
+
+    Again, I am explaining a wiki. If you know what a wiki, you know this
+    already.
+
+*** Blog Article
+    I also want to write blog style articles that one can write once and
+    publish. It is usually rare for these types of articles to be
+    edited. COnventionally, they are composed and written once and sent on their
+    merry way to the world; never again beholding a tender kiss from their
+    creator. Sad but that is how it be sometimes.
+
+** What type of article is this?
+   Idk. It sits somewhere in the middle lol. One good way of detemining whether
+   something is part of the wiki or the blog is how often it is edited once it
+   is initially published. 
+
+** Do you need to include your blog here?
+   I guess not. This is where I first thought of storing it. I will eventually
+   make a repo for the blog unilaterally and everything here will be the wiki
+   :). I am just a messy person. I prefer to make a mess and incrementally clean up
+   afterwards. Otherwise I would never write anything since my chronic and fatal
+   perfectionism would prevent me from ever authoring even a single piece of text.
