@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       3ff31565-c6a2-4e5b-b005-7954245b8136
+:END:
+#+title: Mathematics
+* Introduction
+The viability of mathematics to offer solutions to engineering problems should
+be beyond dispute by now. But beyond that, math is beautiful.
+
+* Fields
+As with all intellectual ventures, math is best understood in terms of its
+constituent parts and the relationships thereof. Here are a few fields that have
+received a prodigious amount of historical development.
+** Sub-fields
+- [[id:00dc99ef-46bf-40cb-9913-79050dd3acf8][Set Theory]]
+- [[id:212bdbf0-ea52-4f08-800d-3fef10a7313b][Differential Geometry]]
+- [[id:e9ae00af-2618-4e5b-9aa7-cd3d01f957a6][Type Theory]]
+- [[id:29b2c8ce-281e-4305-9a08-de7c02bb1edd][Category Theory]]
+- [[id:de3b5dd1-914a-46c6-84b4-bdc38738e19d][Real Analysis]]
+
+* TODO Pedagogy
+
+* TODO History
+
+* TODO The God of Mathematics
+** TODO The Priests

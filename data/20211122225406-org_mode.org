@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       05d07c9a-b8fe-4664-b8be-56418808763d
+:END:
+#+title: Org Mode
+* TODO Introduction
+I'm finally understanding the effective use of Org mode consist of. It is relatively

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4f1e1bbf-d3c9-46cb-aa16-bdb051280717
+:END:
+#+title: Main
+* Introduction
+This is the main page for all [[id:1ee2b053-5d9e-4f1f-b769-3ffa51380f55][Roam]] notes. I expect to use make heavy use of this
+in order to build out my _second brain_. I will try to list out all the top
+level concepts in this file.
+
+Consider this a work in progress ;)
+* Top-level Concepts
+Here are a list of top level concepts I wish to occupy a central role in the
+development of this wiki.
+
+** On Second Thought...
+After thinking about the purpose of this wiki, these links might just be some of
+my favorite articles; not top level ones.
+-
+- [[id:3ff31565-c6a2-4e5b-b005-7954245b8136][Mathematics]]
+- -
