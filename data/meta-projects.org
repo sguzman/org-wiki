@@ -1,0 +1,77 @@
+#+TITLE: Personal Self Improvement Projects
+
+* Introduction
+I like keeping myself busy. I feel that humans, and men in particular,
+experience idleness as a loss of purpose. In my own life, I can definitely
+recognize a pattern with my level of ideness and emotional troughs for myself.
+That's life.
+
+To keep myself relatively content, I plan out ambitious undertakings that
+demand a lot of effort and time. It's not necessarily about finishing the
+projects but working towards some terminal point. It's like aiming for the
+horizon.
+
+** Nature of Projects
+
+Of course, I choose projects which will yield some tangible benefit in the
+short or long run. Thus, the nature of most of my projects tend to have an
+explicit undercurrent of self-Improvement by design. Even if I never fully
+master playing the piano, for example, I kept myself busy and industrious
+and ,hey!, I know the piano now.
+
+The projects revolve around epistemic, as opposed to practical mastery of
+something. I have a tendency to be more interested in the theoretical aspect
+of a thing. If I wanted to flatter myself, I conclude it's because I am so
+smart that my brain demands constant consumption of knowledge. I think its
+more so that I'm kinda lazy.
+
+* Lazy?
+Yes. I am lazy. I hear that laziness is a virtue among programmers and
+geniuses so I am in good company. For some reason, my entire self becomes
+animated at aspect of learning theory. It's like work but just for your
+brain. I have an active mind but a lazy body.
+
+So when I master the theory, say, behind programming, I don't want to actually
+program anymore. To me, practice serves theory. Once I have mastered the art
+of knowledge in some relevant domain, there is nothing that can surprise me.
+And therefore, once I have a neat little theory about something, practice
+within that domain bores me to no end. There is no purpose to practice once
+theory is mastered. It's just boring drivel.
+
+If that is lazy, I want to be more lazy. I want to be more content knowing.
+
+* Why never ending projects?
+These projects sometimes seem to be endless. They are endless because they are
+meant to keep me busy. I don't want to be bored. I want to be active. I want
+spend as much as I have on this earth consuming knowledge. If that means I
+must set the horizon as the goal, then so be it.
+
+
+** Example
+One of my projects is to develop reading proficiency in all the
+major languages of the world, alive or extinct. I want to know what others have
+wrote. The best way of gaining an intimate knowledge of the state of mind
+authors from all over the world is to read their books. So I will learn all the
+major languages of the world to peer into the mind of writers in their most
+intimate and private moments; when they wrote.
+
+** Formal Project Statement
+Stated more formally, I want to know everything there is to know. In pursuit of
+this goal, I will learn all the languages of the world. This is a subproject
+of the more ambitious and general goal of knowing everything. This subproject
+will itself splinter off subsubprojects in pursuit of individual languages.
+
+At every level of abstraction, the current goal becomes the thing of focus. It
+is the thing that I plan to implement. In trying to understand the world, I
+organize my projects by level of abstractions, recursively whittling their way
+down the abstraction hierarchy until they reach more concrete and tangible
+implementations.
+
+Such will it be.
+
+I plan to document my approach in theory to achieving projects. Also, I will
+document all my projects in a single fat file. The hierarchy that results is
+the mental model under which I labor.
+
+* Links
+[[./projects.org][Projects]]

@@ -1,0 +1,58 @@
+#+TITLE: I Want to Learn These Languages
+
+* Languages
+** DONE English
+** DONE Spanish
+** TODO Albanian
+** TODO Ancient Greek
+** TODO Arabic (Classical)
+** TODO Arabic (Egyptian)
+** TODO Arabic (Morocco)
+** TODO Arabic (Standard)
+** TODO Bokmal (Norwegian)
+** TODO Cantonese
+** TODO Croatian
+** TODO Danish
+** TODO Dutch
+** TODO Estonia
+** TODO Finnish
+** TODO French
+** TODO German
+** TODO Greek
+** TODO Gujarati
+** TODO Hawaiian
+** TODO Hebrew
+** TODO Hindi
+** TODO Hungarian
+** TODO Icelandic
+** TODO Indonesian
+** TODO Irish
+** TODO Italian
+** TODO Japanese
+** TODO Korean
+** TODO Latin
+** TODO Lithuanian
+** TODO Mandarin Chinese
+** TODO Marathi
+** TODO Nahuatl
+** TODO Navajo
+** TODO Pashto
+** TODO Persian
+** TODO Polish
+** TODO Portuguese
+** TODO Punjabi
+** TODO Romanian
+** TODO Russian
+** TODO Scottish
+** TODO Serbia
+** TODO Slovakian
+** TODO Slovene
+** TODO Swedish
+** TODO Tagalog
+** TODO Tamil
+** TODO Thai
+** TODO Tibetan
+** TODO Turkish
+** TODO Ukraine
+** TODO Vietnamese
+** TODO Yoruba
