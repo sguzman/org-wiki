@@ -1,6 +1,5 @@
 #+TITLE: I Want to Learn These Languages
 
-* Languages
 ** DONE English
 ** DONE Spanish
 ** TODO Albanian
